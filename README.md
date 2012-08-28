@@ -1,5 +1,5 @@
-
 1. ABOUT THIS APPLICATION
+
 ******************************************
 
 The Aim of this Application is "Generic JavaScript Form Validation Functions "
@@ -44,6 +44,7 @@ Phone * 	<Text Box> [Format: + 91 (990)-824-7888]
 
 
 2. WHAT THIS APPLICATION CONTAINS
+
 ******************************************
 
 Below is a list of files released as part of this build.
@@ -63,4 +64,4 @@ Below is a list of files released as part of this build.
 
 /assets - this folder contains all js & css file that is included in the application.
 
-<img style="max-width:100%;" src="https://github.com/bheema-nyros/Generic-JavaScript-Form-Validation-Functions.git/raw/master/Screen-shot-of-form.bmp" alt="formvalidation" title="formvalidation"/>
+<img style="max-width:100%;" src="https://github.com/bheema-nyros/Generic-JavaScript-Form-Validation-Functions.git/raw/master/Screenshot.bmp" alt="formvalidation" title="formvalidation"/>
