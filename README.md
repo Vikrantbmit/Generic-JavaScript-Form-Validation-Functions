@@ -1,11 +1,8 @@
 
-
 1. ABOUT THIS APPLICATION
 ******************************************
 
 The Aim of this Application is "Generic JavaScript Form Validation Functions "
-
-  	In this source code i create a form that validates the fields using javaScript, Upon successful validation, a Congratulations message should be showed on top of form and a progress bar should also be shown on top basing on the number of HTML form elements successfully filled:
 
 
 Here is the example fields i choose:
@@ -62,6 +59,8 @@ Below is a list of files released as part of this build.
 /img - this folder contains all relevant images included in this sample.
 
 
-<img style="max-width:100%;" src="https://github.com/bheema-nyros/Generic-JavaScript-Form-Validation-Functions.git/raw/master/Screen-shot-of-form.bmp" alt="formvalidation" title="formvalidation"/>
+
 
 /assets - this folder contains all js & css file that is included in the application.
+
+<img style="max-width:100%;" src="https://github.com/bheema-nyros/Generic-JavaScript-Form-Validation-Functions.git/raw/master/Screen-shot-of-form.bmp" alt="formvalidation" title="formvalidation"/>
